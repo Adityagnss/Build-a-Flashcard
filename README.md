@@ -166,5 +166,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the open-source community for the tools and libraries used in this project.
 - Thanks to everyone who has contributed to this project, whether through code, feedback, or support.
 
-# Build-a-Flashcard
-# Build-a-Flashcard
