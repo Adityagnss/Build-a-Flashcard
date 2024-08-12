@@ -145,6 +145,11 @@ Follow these steps to set up the project on your local machine:
 - **server/** (if applicable): Contains the backend server code.
 - **database/**: May contain database-related files, such as migration scripts.
 
+
+## web site look like
+![image](https://github.com/user-attachments/assets/d8f8c613-2f83-4788-babd-72bfa4db3ce8)
+
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improving the project or find any issues, feel free to open an issue or submit a pull request.
